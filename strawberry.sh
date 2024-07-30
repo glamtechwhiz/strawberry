@@ -1,39 +1,38 @@
-🔹Task-1:
+Task-1:
 
-Codes: https://raw.githubusercontent.com/glamtechwhiz/strawberry/main/strawberry.sh
+Codes: https://github.com/glamtechwhiz/strawberry.git
 
-git clone https://github.com/dkbroy
+git clone https://github.com/glamtechwhiz/
 
-cd name.sh
+cd strawberry.sh
 
-chmod +x name.sh && ./name.sh
+chmod +x strawberry.sh && ./strawberry.sh
 
 common: git add . && git commit -m "feat: initiated the project" && git push origin main
 
 🔹Task-2: 
 
-Codes: https://github.com/dkbroyt/test/blob/main/test.sh
+Codes: https://github.com/glamtechwhiz/strawberry.git
 
-git clone https://github.com/dkbroyt
+git clone https://github.com/glamtechwhiz/
 
-cd name.sh
+cd strawberry.sh
 
-chmod +x name.sh
+chmod +x strawberry.sh
 
-. /name.sh
+. /strawberry.sh
 
 common: git add . && git commit -m "feat: initiated the project" && git push origin main
 
 🔹Task-3: 
 
-Codes: https://github.com/dkbroyt/busy/blob/main/busy.sh
+Codes: https://github.com/glamtechwhiz/strawberry.git
 
-git clone https://github.com/dkbroyt
-
+git clone https://github.com/glamtechwhiz/
 cd name
 
-chmod +x name.sh
+chmod +x strawberry.sh
 
-. /name.sh
+. /strawberry.sh
 
 common: git add . && git commit -m "feat: initiated the project" && git push origin main
